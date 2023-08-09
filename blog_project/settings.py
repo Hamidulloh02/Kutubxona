@@ -26,7 +26,7 @@ CORS_ALLOW_METHODS = [
     "POST",
     "PUT",
 ]
-DEBUG = False
+DEBUG = True
 
 # Application definition
 
